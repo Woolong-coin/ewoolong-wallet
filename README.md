@@ -1,4 +1,4 @@
-# eWoolong Web & Desktop Apps
+# eWoolong Desktop App
 
 * **Just looking to download?** Grab our [latest release](https://github.com/woolong-coin/ewoolong-wallet/releases).
 

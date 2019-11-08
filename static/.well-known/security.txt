@@ -1,0 +1,8 @@
+# If you would like to report a security issue
+# please open a report on HackerOne
+Contact: https://github.com/woolong-coin
+Acknowledgments: https://github.com/woolong-coin
+Preferred-Languages: en
+Canonical: https://woolongs.com/.well-known/security.txt
+Policy: https://hackerone.com/woolong?view_policy=true
+Hiring: https://about.woolongs.com/jobs/
